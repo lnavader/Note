@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T09:11:57.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="GPSHFHMTzm4jxF-tCRMm" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T03:47:51.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4R55KtnaQ_MBXz0sWxzt" version="24.4.4" type="github">
   <diagram name="第 1 页" id="4HQFFYl0oMXb8RrgsdkW">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="y11krrfXEaSfHsdXctee-31" value="Labeled data" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="565" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y11krrfXEaSfHsdXctee-32" value="MLP-SSL model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="y11krrfXEaSfHsdXctee-32" value="ResMLP-SSL model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="642.5" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="y11krrfXEaSfHsdXctee-33" value="Predicted results" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
